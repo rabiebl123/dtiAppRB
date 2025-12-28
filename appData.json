@@ -1,0 +1,628 @@
+{
+  "outfits": [
+    {
+      "id": 1,
+      "name": "Summer Breeze",
+      "description": "A light and airy summer outfit perfect for beach days and outdoor adventures.",
+      "imageURL": "https://i.ibb.co/tM29v5Dr/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Midnight Gala",
+      "description": "Elegant evening wear with deep purple accents and shimmering details.",
+      "imageURL": "https://i.ibb.co/G38jMDBt/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Cozy Autumn",
+      "description": "Warm and comfortable fall outfit featuring earth tones and soft textures.",
+      "imageURL": "https://i.ibb.co/nsPM9f6L/3.png"
+    },
+    {
+      "id": 4,
+      "name": "Neon Dreams",
+      "description": "Bold and vibrant streetwear with neon colors that stand out in any crowd.",
+      "imageURL": "https://i.ibb.co/mCCJnpD3/4.png"
+    },
+    {
+      "id": 5,
+      "name": "Royal Fantasy",
+      "description": "A majestic outfit inspired by royalty, featuring rich fabrics and intricate patterns.",
+      "imageURL": "https://i.ibb.co/mFVSCcFH/5.png"
+    },
+    {
+      "id": 6,
+      "name": "Cyberpunk Rogue",
+      "description": "Futuristic techwear with glowing trim and tactical utility pockets.",
+      "imageURL": "https://i.ibb.co/S4XbgwTd/6.png"
+    },
+    {
+      "id": 7,
+      "name": "Vintage Picnic",
+      "description": "Retro-style polka dot dress paired with a straw hat for a classic 50s look.",
+      "imageURL": "https://i.ibb.co/kgCBwn5h/7.png"
+    },
+    {
+      "id": 8,
+      "name": "Frost Queen",
+      "description": "An icy blue gown adorned with crystal-like sequins and a sheer white cape.",
+      "imageURL": "https://i.ibb.co/HprFY5fb/8.png"
+    },
+    {
+      "id": 9,
+      "name": "Desert Wanderer",
+      "description": "Practical yet stylish linen layers designed for trekking across golden dunes.",
+      "imageURL": "https://i.ibb.co/G4VX6brX/9.png"
+    },
+    {
+      "id": 10,
+      "name": "Gothic Romance",
+      "description": "Dramatic black lace and velvet ensemble with Victorian-inspired silhouettes.",
+      "imageURL": "https://i.ibb.co/pDdZ15y/10.png"
+    },
+    {
+      "id": 11,
+      "name": "Boho Spirit",
+      "description": "Flowy floral maxi dress with layered necklaces and a fringed suede vest.",
+      "imageURL": "https://i.ibb.co/tVCGKRs/11.png"
+    },
+    {
+      "id": 12,
+      "name": "Urban Explorer",
+      "description": "Modern casual wear featuring a cargo jacket, slim-fit joggers, and sleek sneakers.",
+      "imageURL": "https://i.ibb.co/MkRbXkwg/12.png"
+    },
+    {
+      "id": 13,
+      "name": "Sunset Serenade",
+      "description": "A gradient orange and pink dress that mimics the beauty of a twilight sky.",
+      "imageURL": "https://i.ibb.co/RpRp2pX2/13.png"
+    },
+    {
+      "id": 14,
+      "name": "Academia Chic",
+      "description": "Plaid skirt, knit sweater, and loafers for a sophisticated scholarly aesthetic.",
+      "imageURL": "https://i.ibb.co/d0RY9HTq/14.png"
+    },
+    {
+      "id": 15,
+      "name": "Space Cadet",
+      "description": "Silver metallic jumpsuit with futuristic patches and high-top boots.",
+      "imageURL": "https://i.ibb.co/1YcN84BS/15.png"
+    },
+    {
+      "id": 16,
+      "name": "Jungle Safari",
+      "description": "Olive green utility wear with animal print accessories for the wild at heart.",
+      "imageURL": "https://i.ibb.co/ycJCRSbB/16.png"
+    },
+    {
+      "id": 17,
+      "name": "Ballet Core",
+      "description": "A delicate tulle tutu paired with a sleek bodysuit and satin ribbon shoes.",
+      "imageURL": "https://i.ibb.co/23V5QncR/17.png"
+    },
+    {
+      "id": 18,
+      "name": "Punk Rocker",
+      "description": "Studded leather jacket, ripped jeans, and a band tee for a rebellious edge.",
+      "imageURL": "https://i.ibb.co/Z6sSmSF2/18.png"
+    },
+    {
+      "id": 19,
+      "name": "Garden Fairy",
+      "description": "Ethereal dress made of floral appliqué and light green chiffon.",
+      "imageURL": "https://i.ibb.co/Tx8T9fKH/19.png"
+    },
+    {
+      "id": 20,
+      "name": "Minimalist Muse",
+      "description": "Clean lines and neutral tones featuring an oversized blazer and tailored trousers.",
+      "imageURL": "https://i.ibb.co/0p22mnP4/20.png"
+    },
+    {
+      "id": 21,
+      "name": "Ocean Pearl",
+      "description": "A shimmering white dress with iridescent details reminiscent of sea shells.",
+      "imageURL": "https://i.ibb.co/VYMgVQJh/21.png"
+    },
+    {
+      "id": 22,
+      "name": "Mountain Peak",
+      "description": "Heavy duty winter gear with faux fur lining for extreme cold weather.",
+      "imageURL": "https://i.ibb.co/DHRb3cvJ/22.png"
+    },
+    {
+      "id": 23,
+      "name": "Street Graffiti",
+      "description": "Colorful oversized hoodie with artistic paint splatter patterns.",
+      "imageURL": "https://i.ibb.co/YFhX0XXM/23.png"
+    },
+    {
+      "id": 24,
+      "name": "Pastel Paradise",
+      "description": "Sweet and soft lavender and mint outfit with cute bow embellishments.",
+      "imageURL": "https://i.ibb.co/9kCrR8jV/24.png"
+    },
+    {
+      "id": 25,
+      "name": "Steampunk Aviator",
+      "description": "Leather corset and goggles with brass gear details and a Victorian flair.",
+      "imageURL": "https://i.ibb.co/trP3vyL/25.png"
+    },
+    {
+      "id": 26,
+      "name": "Zen Garden",
+      "description": "Kimono-inspired wrap top and wide-leg pants for a peaceful, balanced look.",
+      "imageURL": "https://i.ibb.co/G3RB7zxD/26.png"
+    },
+    {
+      "id": 27,
+      "name": "Hollywood Star",
+      "description": "Glamorous red carpet gown with a dramatic slit and sparkling jewelry.",
+      "imageURL": "https://i.ibb.co/spc6BXtF/27.png"
+    },
+    {
+      "id": 28,
+      "name": "Coffee Shop Date",
+      "description": "Casual denim jacket over a floral sundress, perfect for a relaxed afternoon.",
+      "imageURL": "https://i.ibb.co/Xk2SjLHn/28.png"
+    },
+    {
+      "id": 29,
+      "name": "Solar Flare",
+      "description": "Bright yellow and gold ensemble that radiates energy and warmth.",
+      "imageURL": "https://i.ibb.co/ymwMYnYC/29.png"
+    },
+    {
+      "id": 30,
+      "name": "Shadow Ninja",
+      "description": "Sleek all-black tactical gear designed for stealth and agility.",
+      "imageURL": "https://i.ibb.co/5X5pHHjq/30.png"
+    },
+    {
+      "id": 31,
+      "name": "Meadow Bloom",
+      "description": "Delicate wildflower prints on a soft cream-colored linen base.",
+      "imageURL": "https://i.ibb.co/7xYN0L1S/31.png"
+    },
+    {
+      "id": 32,
+      "name": "Electric Volt",
+      "description": "High-contrast black and yellow sporty outfit with lightning motifs.",
+      "imageURL": "https://i.ibb.co/qfTb1zr/32.png"
+    },
+    {
+      "id": 33,
+      "name": "Velvet Night",
+      "description": "Rich navy velvet dress with silver celestial embroidery.",
+      "imageURL": "https://i.ibb.co/tw5Y51ny/33.png"
+    },
+    {
+      "id": 34,
+      "name": "Pop Art",
+      "description": "Bold primary colors and comic-book style patterns for a fun look.",
+      "imageURL": "https://i.ibb.co/7JbJYVdv/34.png"
+    },
+    {
+      "id": 35,
+      "name": "Ancient Myth",
+      "description": "Toga-inspired white silk dress with gold laurel wreath accessories.",
+      "imageURL": "https://i.ibb.co/tP89ckgm/35.png"
+    },
+    {
+      "id": 36,
+      "name": "Disco Fever",
+      "description": "Sequined bell-bottoms and a metallic wrap top for a 70s dance floor.",
+      "imageURL": "https://i.ibb.co/S21z7sH/36.png"
+    },
+    {
+      "id": 37,
+      "name": "Woodland Elf",
+      "description": "Earth-toned layers with leaf-shaped details and lace-up boots.",
+      "imageURL": "https://i.ibb.co/jZB2X2r3/37.png"
+    },
+    {
+      "id": 38,
+      "name": "Metro Executive",
+      "description": "Sharp pinstripe suit with a crisp white shirt for a powerful office look.",
+      "imageURL": "https://i.ibb.co/5gqDXQNf/38.png"
+    },
+    {
+      "id": 39,
+      "name": "Candy Cloud",
+      "description": "Fluffy pink and blue sweater paired with white denim and heart glasses.",
+      "imageURL": "https://i.ibb.co/gLCt4HDc/39.png"
+    },
+    {
+      "id": 40,
+      "name": "Dark Academia",
+      "description": "Tweed coat, turtleneck, and spectacles for a mysterious intellectual vibe.",
+      "imageURL": "https://i.ibb.co/rKdTCFMC/40.png"
+    },
+    {
+      "id": 41,
+      "name": "Island Escape",
+      "description": "Tropical palm leaf prints on a comfortable sarong and crop top.",
+      "imageURL": "https://i.ibb.co/WbY2v9B/41.png"
+    },
+    {
+      "id": 42,
+      "name": "Silver Screen",
+      "description": "Classic black and white ensemble inspired by Old Hollywood cinema.",
+      "imageURL": "https://i.ibb.co/TMQBNGGN/42.png"
+    },
+    {
+      "id": 43,
+      "name": "Cyber Athlete",
+      "description": "Neoprene workout gear with reflective strips and digital patterns.",
+      "imageURL": "https://i.ibb.co/TBNVmzR4/43.png"
+    },
+    {
+      "id": 44,
+      "name": "Golden Hour",
+      "description": "Amber-colored silk gown that glows beautifully in natural sunlight.",
+      "imageURL": "https://i.ibb.co/R4CQv6XM/44.png"
+    },
+    {
+      "id": 45,
+      "name": "Grunge Revival",
+      "description": "Flannel shirt tied around the waist with combat boots and a beanie.",
+      "imageURL": "https://i.ibb.co/cKkN84Zg/45.png"
+    },
+    {
+      "id": 46,
+      "name": "Mermaid Tail",
+      "description": "Scaly sequined skirt with a shell-themed top for an underwater fantasy.",
+      "imageURL": "https://i.ibb.co/MkzKwxkw/46.png"
+    },
+    {
+      "id": 47,
+      "name": "Winter Cabin",
+      "description": "Thick knit cardigan with leggings and cozy wool socks.",
+      "imageURL": "https://i.ibb.co/mVBBFXty/47.png"
+    },
+    {
+      "id": 48,
+      "name": "Royal Knight",
+      "description": "Armored vest worn over a tunic with leather trousers and high boots.",
+      "imageURL": "https://i.ibb.co/bj74mmSQ/48.png"
+    },
+    {
+      "id": 49,
+      "name": "Butterfly Effect",
+      "description": "Dress featuring wings-like sleeves and colorful wing patterns.",
+      "imageURL": "https://i.ibb.co/zVQPSzJC/49.png"
+    },
+    {
+      "id": 50,
+      "name": "Concrete Jungle",
+      "description": "Grey and tan urban outfit blending into the city architecture.",
+      "imageURL": "https://i.ibb.co/MygCrVf8/50.png"
+    },
+    {
+      "id": 51,
+      "name": "Cherry Blossom",
+      "description": "Soft pink layers with delicate floral patterns inspired by spring in Japan.",
+      "imageURL": "https://i.ibb.co/x855mszB/51.png"
+    },
+    {
+      "id": 52,
+      "name": "Galaxy Voyager",
+      "description": "Deep purple and blue nebular prints on a modern space suit.",
+      "imageURL": "https://i.ibb.co/d4V6N3c3/52.png"
+    },
+    {
+      "id": 53,
+      "name": "Linen Luxe",
+      "description": "Breathable cream linen set perfect for a Mediterranean holiday.",
+      "imageURL": "https://i.ibb.co/yBR0PXKC/53.png"
+    },
+    {
+      "id": 54,
+      "name": "Noir Detective",
+      "description": "Classic trench coat and fedora for a mysterious 1940s private eye look.",
+      "imageURL": "https://i.ibb.co/4wYvL2HR/54.png"
+    },
+    {
+      "id": 55,
+      "name": "Sugar Spice",
+      "description": "A combination of edgy leather and sweet lace in a monochrome palette.",
+      "imageURL": "https://i.ibb.co/DPrgjBxK/55.png"
+    },
+    {
+      "id": 56,
+      "name": "Mountain Climber",
+      "description": "Durable ripstop pants and a windproof shell jacket for the summit.",
+      "imageURL": "https://i.ibb.co/FkNCQVCQ/56.png"
+    },
+    {
+      "id": 57,
+      "name": "Enchanted Forest",
+      "description": "Deep emerald green gown with mossy textures and vine details.",
+      "imageURL": "https://i.ibb.co/5gTR07VM/57.png"
+    },
+    {
+      "id": 58,
+      "name": "City Skater",
+      "description": "Wide-leg chinos, a graphic tee, and classic canvas skating shoes.",
+      "imageURL": "https://i.ibb.co/zHXm7ZRJ/58.png"
+    },
+    {
+      "id": 59,
+      "name": "Royal Blue",
+      "description": "Monochromatic blue outfit with different textures like satin and wool.",
+      "imageURL": "https://i.ibb.co/fzryK4LS/59.png"
+    },
+    {
+      "id": 60,
+      "name": "Autumn Blaze",
+      "description": "Burnt orange and fiery red layers for a warm, cozy fall appearance.",
+      "imageURL": "https://i.ibb.co/ks3dS6pw/60.png"
+    },
+    {
+      "id": 61,
+      "name": "Cloud Nine",
+      "description": "Soft white puffer jacket and sky blue accessories for a light feel.",
+      "imageURL": "https://i.ibb.co/bjJDWpjM/61.png"
+    },
+    {
+      "id": 62,
+      "name": "Regency Era",
+      "description": "Empire waist dress with long gloves, inspired by Bridgerton style.",
+      "imageURL": "https://i.ibb.co/7dtZB3ww/62.png"
+    },
+    {
+      "id": 63,
+      "name": "Neon Runner",
+      "description": "High-visibility athletic gear for nighttime city marathons.",
+      "imageURL": "https://i.ibb.co/4w7HV9kL/63.png"
+    },
+    {
+      "id": 64,
+      "name": "Velvet Rose",
+      "description": "Deep red velvet dress with dark green leaf-like lace trimming.",
+      "imageURL": "https://i.ibb.co/v4H32WWp/64.png"
+    },
+    {
+      "id": 65,
+      "name": "Desert Storm",
+      "description": "Khaki and sand-colored tactical wear for rugged environment survival.",
+      "imageURL": "https://i.ibb.co/gZ75fXcC/65.png"
+    },
+    {
+      "id": 66,
+      "name": "Gothic Lolita",
+      "description": "Frilly black and white dress with a matching parasol and platform shoes.",
+      "imageURL": "https://i.ibb.co/x9cN0qJ/66.png"
+    },
+    {
+      "id": 67,
+      "name": "Crystal Cave",
+      "description": "Translucent materials and shiny silver accents for a geological look.",
+      "imageURL": "https://i.ibb.co/ym613gCL/67.png"
+    },
+    {
+      "id": 68,
+      "name": "Preppy Cruise",
+      "description": "Navy blazer, white shorts, and a striped shirt for a nautical vibe.",
+      "imageURL": "https://i.ibb.co/spj175XY/68.png"
+    },
+    {
+      "id": 69,
+      "name": "Sunset Boho",
+      "description": "Warm-toned crocheted top with light-wash flared jeans and a headband.",
+      "imageURL": "https://i.ibb.co/zVsHQmZB/69.png"
+    },
+    {
+      "id": 70,
+      "name": "Shadow Stalker",
+      "description": "Asymmetrical black hooded vest with multi-strap cargo pants.",
+      "imageURL": "https://i.ibb.co/rGqdy0Px/70.png"
+    },
+    {
+      "id": 71,
+      "name": "Ice Sculptor",
+      "description": "Padded protective gear with a cool grey and white color scheme.",
+      "imageURL": "https://i.ibb.co/PspKCQ0H/71.png"
+    },
+    {
+      "id": 72,
+      "name": "Lollipop Pop",
+      "description": "Bright pink and yellow outfit with oversized plastic jewelry.",
+      "imageURL": "https://i.ibb.co/MDKsChYN/72.png"
+    },
+    {
+      "id": 73,
+      "name": "Starry Night",
+      "description": "Van Gogh-inspired blue and yellow swirling patterns on a midi dress.",
+      "imageURL": "https://i.ibb.co/fdPQ426V/73.png"
+    },
+    {
+      "id": 74,
+      "name": "Cyber Samurai",
+      "description": "Traditional Japanese silhouettes updated with futuristic tech fabrics.",
+      "imageURL": "https://i.ibb.co/R49HhWwv/74.png"
+    },
+    {
+      "id": 75,
+      "name": "Pastel Goth",
+      "description": "Creepy-cute aesthetic combining gothic motifs with soft pastel colors.",
+      "imageURL": "https://i.ibb.co/Kj9VQJNQ/75.png"
+    },
+    {
+      "id": 76,
+      "name": "Gold Digger",
+      "description": "Luxury gold-lamé suit that demands attention at any party.",
+      "imageURL": "https://i.ibb.co/CpKcpGGH/76.png"
+    },
+    {
+      "id": 77,
+      "name": "Rainy Day",
+      "description": "Stylish yellow raincoat and transparent boots for wet city streets.",
+      "imageURL": "https://i.ibb.co/5CV5GbK/77.png"
+    },
+    {
+      "id": 78,
+      "name": "Vintage Vinyl",
+      "description": "70s inspired leather skirt and a graphic record-themed t-shirt.",
+      "imageURL": "https://i.ibb.co/XZWZnPsL/78.png"
+    },
+    {
+      "id": 79,
+      "name": "Lunar Priestess",
+      "description": "Moon-themed gown with silver headpieces and flowing white silk.",
+      "imageURL": "https://i.ibb.co/zV01ZG43/79.png"
+    },
+    {
+      "id": 80,
+      "name": "Eco Warrior",
+      "description": "Sustainable hemp fabrics and recycled materials in earthy green tones.",
+      "imageURL": "https://i.ibb.co/ccsjwx8B/80.png"
+    },
+    {
+      "id": 81,
+      "name": "Red Velvet",
+      "description": "Sophisticated evening wear featuring a deep crimson velvet jumpsuit.",
+      "imageURL": "https://i.ibb.co/cSwQj072/81.png"
+    },
+    {
+      "id": 82,
+      "name": "Street Baller",
+      "description": "Basketball jersey worn over a hoodie with premium high-top sneakers.",
+      "imageURL": "https://i.ibb.co/YTQm52F6/82.png"
+    },
+    {
+      "id": 83,
+      "name": "Hidden Dragon",
+      "description": "Traditional cheongsam with modern embroidered dragon motifs.",
+      "imageURL": "https://i.ibb.co/JP2Bpf2/83.png"
+    },
+    {
+      "id": 84,
+      "name": "Northern Lights",
+      "description": "Shifting green and violet hues on a warm hooded winter parka.",
+      "imageURL": "https://i.ibb.co/nMtNK2xs/84.png"
+    },
+    {
+      "id": 85,
+      "name": "Cottage Core",
+      "description": "Simple linen apron dress and a basket of wildflowers for a rural look.",
+      "imageURL": "https://i.ibb.co/DDk5npQF/85.png"
+    },
+    {
+      "id": 86,
+      "name": "Industrial Edge",
+      "description": "Heavy chains and dark denim combined for a raw industrial vibe.",
+      "imageURL": "https://i.ibb.co/MktJyvBC/86.png"
+    },
+    {
+      "id": 87,
+      "name": "Lemon Sorbet",
+      "description": "Refreshing pale yellow sundress with white lace accents.",
+      "imageURL": "https://i.ibb.co/Wm2y56R/87.png"
+    },
+    {
+      "id": 88,
+      "name": "Cosmic Girl",
+      "description": "Holographic skirt and a silver crop top for a retro-future aesthetic.",
+      "imageURL": "https://i.ibb.co/rGsjqPD3/88.png"
+    },
+    {
+      "id": 89,
+      "name": "Desert Rose",
+      "description": "Dusty pink flowing layers designed for elegance in harsh heat.",
+      "imageURL": "https://i.ibb.co/JRH5WD9L/89.png"
+    },
+    {
+      "id": 90,
+      "name": "Glitch Tech",
+      "description": "Digital distortion patterns on a modern tactical vest and joggers.",
+      "imageURL": "https://i.ibb.co/7t2Sd8ry/90.png"
+    },
+    {
+      "id": 91,
+      "name": "Silk Road",
+      "description": "Ornate patterns and rich fabrics inspired by ancient trade routes.",
+      "imageURL": "https://i.ibb.co/1JBKY7mv/91.png"
+    },
+    {
+      "id": 92,
+      "name": "Oceanic Depths",
+      "description": "Dark teal and deep blue layers that capture the mystery of the abyss.",
+      "imageURL": "https://i.ibb.co/Z6CM7yMM/92.png"
+    },
+    {
+      "id": 93,
+      "name": "Graffiti Queen",
+      "description": "Neon spray-paint styled dress with matching bold accessories.",
+      "imageURL": "https://i.ibb.co/Zpfsfqpn/93.png"
+    },
+    {
+      "id": 94,
+      "name": "Velvet Underground",
+      "description": "Edgy rock look featuring black velvet flares and a leather vest.",
+      "imageURL": "https://i.ibb.co/8gbvvwGp/94.png"
+    },
+    {
+      "id": 95,
+      "name": "Rose Gold",
+      "description": "Shimmering metallic pink gown with delicate floral embroidery.",
+      "imageURL": "https://i.ibb.co/GfqR0LMd/95.png"
+    },
+    {
+      "id": 96,
+      "name": "City Commuter",
+      "description": "Practical and stylish waterproof layers for the daily urban grind.",
+      "imageURL": "https://i.ibb.co/PGtTBbhy/96.png"
+    },
+    {
+      "id": 97,
+      "name": "Sun Flower",
+      "description": "Large floral prints on a bright yellow summer dress.",
+      "imageURL": "https://i.ibb.co/N6PDX5w9/97.png"
+    },
+    {
+      "id": 98,
+      "name": "Marble Muse",
+      "description": "White and grey veined patterns on a structured architectural dress.",
+      "imageURL": "https://i.ibb.co/KxM9JDb3/98.png"
+    },
+    {
+      "id": 99,
+      "name": "Neon Night",
+      "description": "Glow-in-the-dark elements on a black streetwear ensemble.",
+      "imageURL": "https://i.ibb.co/YFK45ZT4/99.png"
+    },
+    {
+      "id": 100,
+      "name": "Final Horizon",
+      "description": "A mix of all elements for a truly unique and diverse ultimate outfit.",
+      "imageURL": "https://i.ibb.co/TDSdxqXF/100.png"
+    },
+    {
+      "id": 260,
+      "name": "Cyber Tech Digital",
+      "description": "Green digital patterns on a tactical vest.",
+      "imageURL": "https://i.ibb.co/BXWHChg/260.png"
+    },
+    {
+      "id": 261,
+      "name": "Bridal Lace",
+      "description": "A short lace dress for a pre-wedding theme.",
+      "imageURL": "https://i.ibb.co/Qjt7MQQ9/261.png"
+    },
+    {
+      "id": 300,
+      "name": "Ultimate DTI Outfit",
+      "description": "The final perfect look for any fashion competition.",
+      "imageURL": "https://i.ibb.co/vxFCgqTT/300.png"
+    },
+    {
+      "id": 450,
+      "name": "The Final Runway Winner",
+      "description": "The ultimate layered and accessorized outfit that captures every DTI judge's eye.",
+      "imageURL": "https://i.ibb.co/BXrMZBr/450.png"
+    }
+  ]
+}
